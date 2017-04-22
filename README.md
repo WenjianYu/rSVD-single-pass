@@ -8,9 +8,9 @@ by Wenjian Yu, Yu Gu, Jian Li, Shenghua Liu, and Yaohang Li.
 1.This package includes the codes in Matlab for generating the test data, and drawing the figures in the paper, and the codes in C implementing the algorithms tested in the paper.
 
 2.The Matlab programs for generating test matrices.
--PCAtestmatrix.m: generate 5 types of test matrices.
--genLargeMatrix.m: a script generating large matrix stored on hard disk.
--genFeretMatrix.m: generate the 150GB matrix from the FERET database.
+PCAtestmatrix.m: generate 5 types of test matrices.
+genLargeMatrix.m: a script generating large matrix stored on hard disk.
+genFeretMatrix.m: generate the 150GB matrix from the FERET database.
 (To obtain the FERET database, please follow the instructions on https://www.nist.gov/itl/iad/image-group/color-feret-database)
 
 3.The Matlab programs for the algorithms.
