@@ -2,8 +2,9 @@
 randomized SVD with single pass over data matrix.
 
 This package includes the codes and experimental data regarding paper: 
-Single-Pass PCA of Large High-Dimensional Data,
-by Wenjian Yu, Yu Gu, Jian Li, Shenghua Liu, and Yaohang Li.
+
+Wenjian Yu, Yu Gu, Jian Li, Shenghua Liu, and Yaohang Li, Single-Pass PCA of Large High-Dimensional Data,
+to appear in Proc. IJCAI 2017. Arxiv.org report <a href="http://arxiv.org/abs/1704.07669"> #1704.07669</a>.
 
 1.This package includes the codes in Matlab for generating the test data, and drawing the figures in the paper, and the codes in C implementing the algorithms tested in the paper.
 
