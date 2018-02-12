@@ -47,6 +47,6 @@ to appear in Proc. IJCAI 2017, pp. 3350-3356. Arxiv.org report <a href="http://a
 Please unpack the tar file rSVDsp-C.tar, and then read the README there.
 The program has been tested on a Ubuntu Linux machine, with Intel ICC with MKL library.
 
-For comment/question/suggestion, please send email to yu-wj at tsinghua dot edu dot cn.
+For comment/question/suggestion, please send email to yu-wj at tsinghua dot edu dot cn (Dr. Wenjian Yu).
 
  
