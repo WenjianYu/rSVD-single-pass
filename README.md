@@ -1,10 +1,12 @@
 # rSVD-single-pass
-randomized SVD with single pass over data matrix.
+Randomized SVD with single pass over data matrix.
 
 This package includes the codes and experimental data regarding paper: 
 
 Wenjian Yu, Yu Gu, Jian Li, Shenghua Liu, and Yaohang Li, Single-Pass PCA of Large High-Dimensional Data,
-to appear in Proc. IJCAI 2017. Arxiv.org report <a href="http://arxiv.org/abs/1704.07669"> #1704.07669</a>.
+to appear in Proc. IJCAI 2017, pp. 3350-3356. Arxiv.org report <a href="http://arxiv.org/abs/1704.07669"> #1704.07669</a>.
+
+<b>If you used this package, please cite the above paper, or send email to me letting me know. Thank you!</b>
 
 1.This package includes the codes in Matlab for generating the test data, and drawing the figures in the paper, and the codes in C implementing the algorithms tested in the paper.
 
